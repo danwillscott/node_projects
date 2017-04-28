@@ -1,0 +1,20 @@
+{
+  "name": "working_with_braintree",
+  "version": "1.0.0",
+  "description": "playing with braintree sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Scott",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "braintree": "^2.0.2",
+    "express": "^4.15.2",
+    "express-session": "^1.15.2",
+    "mongoose": "^4.9.6",
+    "mongoose-unique-validator": "^1.0.5",
+    "path": "^0.12.7"
+  }
+}
